@@ -1,4 +1,4 @@
-# Global Green Energy Report
+# GLOBAL GREEN ENERGY REPORT
 
 This is a well revised and proven statistical report on the various sources of energy and how they affect the environment.
 
